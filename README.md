@@ -1,6 +1,6 @@
 # 🌟 Bem-Vindo ao Meu Repositório! 🌟
 
-[![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao)](https://github.com/ronnanlimao)  
+[![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao)](https://github.com/GuilhermeBerti)  
 
 ## Segue lá!
 <a href="https://www.linkedin.com/in/guilhermedecastroberti/">
