@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌟 Bem-Vindo ao Meu Repositório! 🌟
 
-<!--
-**GuilhermeBerti/GuilhermeBerti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao)](https://github.com/ronnanlimao)  
 
-Here are some ideas to get you started:
+## Segue lá!
+<a href="https://www.linkedin.com/in/guilhermedecastroberti/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais Competências e Stack Tecnológico
+
+**Microsoft Azure** • **SQL** • **Azure Data Factory** • **Microsoft SQL Server**
+
+
+## Certificações Microsoft
+
+- [Azure Fundamentals - AZ900](https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeBerti-8069/83C23B8DD4FEB8B4?sharingId=58402B125345453D)
+- [Azure Data Fundamentals - DP900](https://learn.microsoft.com/api/credentials/share/pt-br/GuilhermeBerti-8069/2D74AEB186B358A?sharingId=58402B125345453D )
