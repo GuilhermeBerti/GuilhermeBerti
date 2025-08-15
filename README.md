@@ -7,7 +7,7 @@
 
 ## Principais Competências e Stack Tecnológico
 
-**Microsoft Azure** • **SQL** • **Azure Data Factory** • **Microsoft SQL Server**
+**Microsoft Azure** • **SQL** • **Azure Data Factory** • **Microsoft SQL Server**  • **Data Lake**
 
 
 ## Certificações Microsoft
